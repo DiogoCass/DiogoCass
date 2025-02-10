@@ -1,12 +1,12 @@
-### 🧑‍💻 Diogo C.Cass
+🧑‍💻 Diogo C.Cass
 
 **`Desenvolvedor Front End`**
 
-Me chamo Diogo Coutinho Cassemiro tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio em Arroio Do Meio, estudo programação a mais de 6 anos, sou natural de Cruz Alta e sou apaixonado por programação web
+Me chamo Diogo Coutinho Cassemiro tenho 23 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio em Arroio Do Meio, estudo programação a mais de 6 anos, sou natural de Cruz Alta e sou apaixonado por programação web. Entenda mais sobre mim visitando o meu [portfolio](https://codiogo-css.droppages.com/) :)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
