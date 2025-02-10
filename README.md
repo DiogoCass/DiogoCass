@@ -35,11 +35,11 @@ Me chamo Diogo Coutinho Cassemiro tenho 23 anos e sou natural do Rio Grande do S
 
 <img 
     align="left" 
-    alt="Tailwind" 
+    alt="bootstrap" 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap.svg](https://camo.githubusercontent.com/0b6fa85b87e7d8b75366a743b09303de183df3d24f4270b296aaa6245ba6057c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667)" 
 />
 
 <img 
