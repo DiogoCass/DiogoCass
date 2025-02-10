@@ -7,7 +7,7 @@ Me chamo Diogo Coutinho Cassemiro tenho 23 anos e sou natural do Rio Grande do S
 ---
 
 🤖 Linguagens e Tecnologias
-
+<center>
 <img 
     align="left" 
     alt="HTML"
@@ -50,7 +50,7 @@ Me chamo Diogo Coutinho Cassemiro tenho 23 anos e sou natural do Rio Grande do S
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
-
+</center>
 <br/>
 <br/>
 <p>
